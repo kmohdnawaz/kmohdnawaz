@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kmohdnawaz
+- 👋 Hi, I’m Nawaz Kazi
 - 👀 I’m interested in Cricket and SCCM.
 - 🌱 I’m currently learning Powershell, SCCM, SQL Queries
 - 💞️ I’m looking to collaborate on SCCM Community hub  
